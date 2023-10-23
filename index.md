@@ -1,5 +1,5 @@
 ---
-title: "Mini-sites Framalibre"
+title: "Mini-sites Frama"
 order: 0
 ---
 ## Les mini-sites Framalibre de Framaprout

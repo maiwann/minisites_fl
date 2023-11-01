@@ -1,6 +1,7 @@
 ---
 title: "Découvrir des applications libres pour mon téléphone"
 order: 4
+in_menu: true
 ---
 <article class="framalibre-notice">
     <div>
@@ -51,6 +52,21 @@ Attention NewPipe n'est pas disponible sur votre magasin d'application Google, s
 
   <article class="framalibre-notice">
     <div>
+      <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
+    </div>
+    <div>
+      <h2>AntennaPod</h2>
+      <p>AntennaPod est un lecteur de podcasts, entièrement gratuit et respectueux de votre vie privée.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/antennapod.html">Vers la notice Framalibre</a>
+        <a href="https://antennapod.org/fr/">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
+
+  <article class="framalibre-notice">
+    <div>
       <img src="https://beta.framalibre.org/images/logo/K-9%20Mail.png">
     </div>
     <div>
@@ -62,6 +78,99 @@ Attention NewPipe n'est pas disponible sur votre magasin d'application Google, s
       </div>
     </div>
   </article>    
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Wikip%C3%A9dia.png">
+    </div>
+    <div>
+      <h2>Wikipédia</h2>
+      <p>Tout Wikipédia en accès direct sur votre téléphone</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/wikip%C3%A9dia.html">Vers la notice Framalibre</a>
+        <a href="https://wikimediafoundation.org/fr/technology/">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/ViMusic.png">
+    </div>
+    <div>
+      <h2>ViMusic</h2>
+      <p>Une application Android pour diffuser de la musique à partir de YouTube Music</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/vimusic.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/vfsfitvnm/ViMusic#vimusic">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Yet%20Another%20Call%20Blocker.png">
+    </div>
+    <div>
+      <h2>Yet Another Call Blocker</h2>
+      <p>Une application simple de blocage d'appels qui vous aidera à éviter de répondre aux appels indésirables en utilisant une base de données de numéros de téléphone participative.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/yet-another-call-blocker.html">Vers la notice Framalibre</a>
+        <a href="https://gitlab.com/xynngh/YetAnotherCallBlocker">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Periodical.png">
+    </div>
+    <div>
+      <h2>Periodical</h2>
+      <p>Une application de calendrier menstruel</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/periodical.html">Vers la notice Framalibre</a>
+        <a href="https://arnowelzel.de/projekte/periodical">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Transportr.png">
+    </div>
+    <div>
+      <h2>Transportr</h2>
+      <p>Transportr est une appli conçue pour faciliter autant que possible l’utilisation des transports en commun, pour tous.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/transportr.html">Vers la notice Framalibre</a>
+        <a href="https://transportr.app/">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/RadarWeather.png">
+    </div>
+    <div>
+      <h2>RadarWeather</h2>
+      <p>Une application météo</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/radarweather.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/woheller69/weather#radarweather">Vers le site</a>
+      </div>
+    </div>
+  </article>    
+
 
 
 
